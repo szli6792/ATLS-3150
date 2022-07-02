@@ -23,4 +23,20 @@ h1, strong {
 
 em {
   color: red;
-}  
+}
+main {
+    grid-area: mainy;
+    background: rgb(240, 234, 182);
+    max-height: 100%;
+    display: block;
+}
+header, nav, main, aside, footer {
+    padding: 1.5em;
+    border: 1px black solid;
+}
+body {
+    background: rgb(240, 239, 199);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+font-family: 'Roboto Flex', sans-serif;
