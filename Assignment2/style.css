@@ -1,9 +1,9 @@
 h1, h2 {
-  color: green;
+  color: black;
 }
 
 p {
-  color: gray;
+  color: black;
 }
 ul {
   border: 2px dashed orange;
@@ -18,11 +18,11 @@ ol, ul {
   border-radius: 20px;
 }
 h1, strong {
-  color: yellow;
+  color: black;
 }
 
 em {
-  color: red;
+  color: black;
 }
 main {
     grid-area: mainy;
